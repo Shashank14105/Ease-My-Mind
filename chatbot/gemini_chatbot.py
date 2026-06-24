@@ -95,7 +95,23 @@ Give supportive and practical advice.
 Keep answers concise.
 """
     print("========== GEMINI REQUEST ==========")
-    response = model.generate_content(prompt)
+    try:
+        response = model.generate_content(prompt)
+        return response.text
 
-    return response.text
+    except Exception:
 
+        return """
+    ### 🌿 Medhā AI
+    Hi I'm temporarily unavailable because the Gemini API quota has been exhausted.
+
+    Meanwhile:
+
+    • Drink water
+    • Take a short walk
+    • Sleep adequately
+    • Reduce screen time
+    • Practice deep breathing
+
+    The Medhā AI will become available again after quota reset.
+    """
