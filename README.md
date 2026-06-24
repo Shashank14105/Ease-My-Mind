@@ -29,7 +29,7 @@ Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Das
 
 ---
 
-## 🎥 Project Demonstration
+## Project Demonstration
 
 <p align="center">
 assets/demo.gif
@@ -157,7 +157,7 @@ Daily Affirmations
 
 ---
 
-# 🛠 Problems Solved
+#  Problems Solved
 
 Students often neglect emotional well-being due to academic pressure.
 
@@ -174,7 +174,7 @@ Limited awareness regarding mental health inside academic communities.
 
 # ✨ Features
 
-## 🧠 Stress Prediction using Random Forest
+##  Stress Prediction using Random Forest
 
 Predicts stress levels based on lifestyle and academic factors.
 
@@ -188,7 +188,7 @@ Predicts stress levels based on lifestyle and academic factors.
 
 ---
 
-## 😊 Journal Sentiment Analysis using RoBERTa
+## Journal Sentiment Analysis using RoBERTa
 
 Analyzes daily journal entries and classifies emotions into:
 
@@ -201,7 +201,7 @@ Analyzes daily journal entries and classifies emotions into:
 
 ---
 
-## 🤖 AI Wellness Coach Powered by Google Gemini
+## AI Wellness Coach Powered by Google Gemini
 
 Generates legitimate personalized recommendations:
 
@@ -267,7 +267,7 @@ A multilingual wellness companion for:
 Supports conversations in multiple languages.
 ---
 
-# 🏗 Folder Structure
+# Folder Structure
 
 ```text
 ├── 📁 alerts
@@ -311,7 +311,7 @@ Supports conversations in multiple languages.
 
 ---
 
-## 💾 Historical Database Support
+## Historical Database Support
 
 All wellness records are securely stored and can be used for:
 
@@ -330,7 +330,7 @@ This enables users to better understand their mental well-being over time.
 
 
 
-## 🔄 AI Workflow
+## AI Workflow
 
 &#x20;                User Inputs
 
@@ -396,15 +396,15 @@ This enables users to better understand their mental well-being over time.
 
 Ease My Mind was developed to promote mental wellness among:
 
-### 👨‍🎓 Students
+### Students
 
 Academic pressure, examination stress, burnout and emotional imbalance are common challenges faced by students. The platform helps them recognize stress early and develop healthy habits.
 
-### 👨‍🏫 Education Practitioners
+### Education Practitioners
 
 Teachers and educators also experience professional stress. The system provides personalized support and wellness recommendations for maintaining emotional well-being.
 
-### 🌱 Personality Development
+### Personality Development
 
 Beyond stress prediction, Ease My Mind encourages:
 
@@ -489,7 +489,7 @@ Separated project into independent components for maintainability.
 
 
 
-# 🐞 Bugs Faced and Fixed
+# Bugs Faced and Fixed
 
 ### Duplicate Database Entries
 
@@ -531,7 +531,7 @@ Optimized state handling and reduced unnecessary processing.
 
 
 
-# 🌟 Why Ease My Mind?
+# Why Ease My Mind?
 
 Designed as a community welfare initiative for students and education practitioners, Ease My Mind provides an intelligent, student-friendly ecosystem for emotional well-being.
 
@@ -578,17 +578,17 @@ Medhā AI is an intelligent multilingual wellness companion.
 
 Supports:
 
-🌎 Multiple Languages
+ Multiple Languages
 
-💬 Emotional Support
+ Emotional Support
 
-📚 Study Motivation
+ Study Motivation
 
-🌱 Personality Development
+ Personality Development
 
-🧘 Stress Management
+ Stress Management
 
-🧠 General Guidance
+ General Guidance
 
 
 Providing a friendly and accessible experience for users from diverse backgroun
