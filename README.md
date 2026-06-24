@@ -12,6 +12,12 @@ Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Das
 
 </p>
 
+## Project Demonstration
+
+<p align="center">
+assets/demo.gif
+</p>
+
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white"/>
@@ -21,14 +27,6 @@ Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Das
 <img src="https://img.shields.io/badge/ReportLab-0A0A0A?style=for-the-badge\&logoColor=white"/>
 </p>
 
-
-## Project Demonstration
-
-<p align="center">
-assets/demo.gif
-</p>
-
----
 # Overview
 Ease My Mind is an AI-powered mental wellness platform developed as a community welfare initiative for students and education practitioners.
 The system predicts stress levels, analyzes emotions from journal entries, generates personalized wellness recommendations verified through Google's Gemini API, tracks emotional trends through dashboards, issues prolonged stress alerts, and generates downloadable wellness reports.
