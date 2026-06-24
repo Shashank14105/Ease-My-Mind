@@ -6,11 +6,6 @@ AI-Powered Mental Wellness Platform for Community Welfare of Students and Educat
 
 </h3>
 
-<p align="center">
-
-Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Dashboard • Wellness Reports
-
-</p>
 
 ## Project Demonstration
 
