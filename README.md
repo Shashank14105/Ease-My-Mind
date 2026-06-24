@@ -1,4 +1,4 @@
-###### \# 🧠 Ease My Mind
+# 🧠 Ease My Mind
 
 
 
@@ -18,11 +18,11 @@ Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Das
 
 
 
-\---
+---
 
 
 
-\## 🚀 Built With
+## 🚀 Built With
 
 
 
@@ -66,11 +66,11 @@ Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Das
 
 
 
-\---
+---
 
 
 
-\## 🎥 Project Demonstration
+## 🎥 Project Demonstration
 
 
 
@@ -90,11 +90,11 @@ assets/demo.gif
 
 
 
-\---
+---
 
 
 
-\# 🌍 Overview
+# 🌍 Overview
 
 
 
@@ -110,23 +110,23 @@ The project aims to promote proactive mental wellness support inside academic co
 
 
 
-\---
+---
 
 
 
-\# 🧭 Easy Navigation
+# 🧭 Easy Navigation
 
 
 
-\* 😊 Positive
+* 😊 Positive
 
-\* 😐 Neutral
+* 😐 Neutral
 
-\* 😞 Negative
+* 😞 Negative
 
 
 
-\### Student-Friendly Dashboard
+### Student-Friendly Dashboard
 
 
 
@@ -154,15 +154,15 @@ The project aims to promote proactive mental wellness support inside academic co
 
 
 
-\---
+---
 
 
 
-\# ⭐ Highlights
+# ⭐ Highlights
 
 
 
-\### ✔ Google Gemini Verified Wellness Advice
+### ✔ Google Gemini Verified Wellness Advice
 
 
 
@@ -170,7 +170,7 @@ Personalized recommendations generated using Google's Gemini API for reliable an
 
 
 
-\### ✔ Prolonged Stress Detection
+### ✔ Prolonged Stress Detection
 
 
 
@@ -178,7 +178,7 @@ Automatically detects repeated severe stress patterns and issues warning alerts.
 
 
 
-\### ✔ Medhā AI Companion
+### ✔ Medhā AI Companion
 
 
 
@@ -186,7 +186,7 @@ Supports multilingual conversations and provides emotional guidance and personal
 
 
 
-\### ✔ Database Support
+### ✔ Database Support
 
 
 
@@ -194,11 +194,11 @@ Stores historical wellness records for future analysis and progress tracking.
 
 
 
-\---
+---
 
 
 
-\# ⚙ Workflow
+# ⚙ Workflow
 
 
 
@@ -258,11 +258,11 @@ Daily Affirmations
 
 
 
-\---
+---
 
 
 
-\# 🎯 Goals Achieved
+# 🎯 Goals Achieved
 
 
 
@@ -302,11 +302,11 @@ Daily Affirmations
 
 
 
-\---
+---
 
 
 
-\# 🛠 Problems Solved
+# 🛠 Problems Solved
 
 
 
@@ -334,35 +334,34 @@ Limited awareness regarding mental health inside academic communities.
 
 
 
-\# ✨ Features
+# ✨ Features
 
 
 
-\## 🧠 Stress Prediction using Random Forest
+## 🧠 Stress Prediction using Random Forest
 
 
 
 Predicts stress levels based on lifestyle and academic factors.
 
 
-
-\### Stress Levels
-
-
-
-\* 🟢 Low Stress
-
-\* 🟡 Moderate Stress
-
-\* 🔴 Severe Stress
+### Stress Levels
 
 
 
-\---
+* 🟢 Low Stress
+
+* 🟡 Moderate Stress
+
+* 🔴 Severe Stress
 
 
 
-\## 😊 Journal Sentiment Analysis using RoBERTa
+---
+
+
+
+## 😊 Journal Sentiment Analysis using RoBERTa
 
 
 
@@ -370,19 +369,19 @@ Analyzes daily journal entries and classifies emotions into:
 
 
 
-\* 😊 Positive
+* 😊 Positive
 
-\* 😐 Neutral
+* 😐 Neutral
 
-\* 😞 Negative
-
-
-
-\---
+* 😞 Negative
 
 
 
-\## 🤖 AI Wellness Coach Powered by Google Gemini
+---
+
+
+
+## 🤖 AI Wellness Coach Powered by Google Gemini
 
 
 
@@ -390,11 +389,11 @@ Generates legitimate personalized recommendations:
 
 
 
-\* Study Schedules
+* Study Schedules
 
-\* Sleep Improvement Tips
+* Sleep Improvement Tips
 
-\* Screen Time Management
+* Screen Time Management
 
 \* Daily Affirmations
 
@@ -414,17 +413,17 @@ Provides:
 
 
 
-\* Stress Distribution Charts
+* Stress Distribution Charts
 
-\* Sentiment Distribution Graphs
+* Sentiment Distribution Graphs
 
-\* Daily Wellness Trends
+* Daily Wellness Trends
 
-\* Recent History Table
+* Recent History Table
 
 
 
-\---
+---
 
 
 
@@ -440,11 +439,11 @@ This helps users seek support before stress escalates.
 
 
 
-\---
+---
 
 
 
-\## 📄 Downloadable Wellness Reports
+## 📄 Downloadable Wellness Reports
 
 
 
@@ -452,25 +451,25 @@ Generate beautifully formatted PDF reports containing:
 
 
 
-\* Current Wellness Summary
+* Current Wellness Summary
 
-\* Journal Entry
+* Journal Entry
 
-\* AI Recommendations
+* AI Recommendations
 
-\* Wellness Analytics
+* Wellness Analytics
 
-\* Stress Charts
+* Stress Charts
 
-\* Sentiment Charts
-
-
-
-\---
+* Sentiment Charts
 
 
 
-\## 🪷 Medhā AI Companion
+---
+
+
+
+## 🪷 Medhā AI Companion
 
 
 
@@ -478,13 +477,13 @@ A multilingual wellness companion for:
 
 
 
-\* Emotional support
+* Emotional support
 
-\* Personality development
+* Personality development
 
-\* Study motivation
+* Study motivation
 
-\* General guidance
+* General guidance
 
 
 
@@ -492,11 +491,11 @@ Supports conversations in multiple languages.
 
 
 
-\---
+---
 
 
 
-\# 🏗 Folder Structure
+# 🏗 Folder Structure
 
 
 
@@ -540,9 +539,9 @@ Ease-My-Mind
 
 ```
 
-\---
+---
 
-💾 Historical Database Support
+## 💾 Historical Database Support
 
 
 
@@ -562,11 +561,11 @@ Future Wellness Insights
 
 This enables users to better understand their mental well-being over time.
 
-\---
+---
 
 
 
-🔄 AI Workflow
+## 🔄 AI Workflow
 
 &#x20;                User Inputs
 
@@ -624,11 +623,11 @@ This enables users to better understand their mental well-being over time.
 
 &#x20;              Daily Affirmations
 
-\--- 
+--- 
 
 
 
-🎓 Community Welfare Impact
+##🎓 Community Welfare Impact
 
 
 
@@ -636,7 +635,7 @@ Ease My Mind was developed to promote mental wellness among:
 
 
 
-👨‍🎓 Students
+### 👨‍🎓 Students
 
 
 
@@ -644,7 +643,7 @@ Academic pressure, examination stress, burnout and emotional imbalance are commo
 
 
 
-👨‍🏫 Education Practitioners
+### 👨‍🏫 Education Practitioners
 
 
 
@@ -652,7 +651,7 @@ Teachers and educators also experience professional stress. The system provides 
 
 
 
-🌱 Personality Development
+### 🌱 Personality Development
 
 
 
@@ -676,93 +675,93 @@ Productivity and personal growth
 
 The ultimate goal is to create a healthier academic community through accessible AI-driven wellness support.
 
-\---
+---
 
 
 
-\# 🛠 Tech Stack
+# 🛠 Tech Stack
 
 
 
-\### Backend
+### Backend
 
 
 
-\* Python
+* Python
 
 
 
-\### Interface
+### Interface
 
 
 
-\* Streamlit
+* Streamlit
 
 
 
-\### Machine Learning
+### Machine Learning
 
 
 
-\* Scikit-Learn
+* Scikit-Learn
 
-\* Random Forest
-
-
-
-\### NLP
+* Random Forest
 
 
 
-\* Hugging Face Transformers
-
-\* RoBERTa
+### NLP
 
 
 
-\### Generative AI
+* Hugging Face Transformers
+
+* RoBERTa
 
 
 
-\* Google Gemini API
+### Generative AI
 
 
 
-\### Visualization
+* Google Gemini API
 
 
 
-\* Plotly
-
-\* Matplotlib
+### Visualization
 
 
 
-\### Database
+* Plotly
+
+* Matplotlib
 
 
 
-\* SQLite
+### Database
 
 
 
-\### Report Generation
+* SQLite
 
 
 
-\* ReportLab
+### Report Generation
 
 
 
-\---
+* ReportLab
 
 
 
-\# ⚡ Product-Level Optimizations
+---
 
 
 
-\### Session State Preservation
+# ⚡ Product-Level Optimizations
+
+
+
+### Session State Preservation
 
 
 
@@ -770,11 +769,11 @@ Prevents prediction results from disappearing when switching pages.
 
 
 
-\---
+---
 
 
 
-\### PDF Download Integration
+### PDF Download Integration
 
 
 
@@ -782,11 +781,11 @@ Users can instantly download wellness reports.
 
 
 
-\---
+---
 
 
 
-\### Database Logging
+### Database Logging
 
 
 
@@ -794,11 +793,11 @@ Stores historical records for future analysis.
 
 
 
-\---
+---
 
 
 
-\### Risk Detection System
+### Risk Detection System
 
 
 
@@ -806,11 +805,11 @@ Tracks repeated severe stress patterns.
 
 
 
-\---
+---
 
 
 
-\### Faster User Experience
+### Faster User Experience
 
 
 
@@ -818,11 +817,11 @@ Reduced unnecessary reruns and improved navigation responsiveness.
 
 
 
-\---
+---
 
 
 
-\### Modular Architecture
+### Modular Architecture
 
 
 
@@ -830,15 +829,15 @@ Separated project into independent components for maintainability.
 
 
 
-\---
+---
 
 
 
-\# 🐞 Bugs Faced and Fixed
+# 🐞 Bugs Faced and Fixed
 
 
 
-\### Duplicate Database Entries
+### Duplicate Database Entries
 
 
 
@@ -858,11 +857,11 @@ Moved logging inside prediction event.
 
 
 
-\---
+---
 
 
 
-\### Download Button Disappearing
+### Download Button Disappearing
 
 
 
@@ -882,11 +881,11 @@ Implemented Session State management.
 
 
 
-\---
+---
 
 
 
-\### UnboundLocalError in Alerts
+### UnboundLocalError in Alerts
 
 
 
@@ -906,11 +905,11 @@ Proper initialization before incrementing.
 
 
 
-\---
+---
 
 
 
-\### Cluttered PDF Layout
+### Cluttered PDF Layout
 
 
 
@@ -930,11 +929,11 @@ Improved spacing, separators and page flow.
 
 
 
-\---
+---
 
 
 
-\### Streamlit Reruns
+### Streamlit Reruns
 
 
 
@@ -954,11 +953,11 @@ Optimized state handling and reduced unnecessary processing.
 
 
 
-\---
+---
 
 
 
-🌟 Why Ease My Mind?
+# 🌟 Why Ease My Mind?
 
 
 
@@ -966,7 +965,7 @@ Designed as a community welfare initiative for students and education practition
 
 
 
-📊 Student-Friendly Dashboard
+## 📊 Student-Friendly Dashboard
 
 
 
@@ -992,7 +991,7 @@ Making mental wellness easy to understand and monitor.
 
 
 
-🤖 Google-Verified Wellness Advice
+## 🤖 Google-Verified Wellness Advice
 
 
 
@@ -1028,7 +1027,7 @@ Recommendations include:
 
 
 
-🪷 Medhā AI Companion
+## 🪷 Medhā AI Companion
 
 
 
@@ -1056,15 +1055,15 @@ Providing a friendly and accessible experience for users from diverse backgroun
 
 
 
-\---
+---
 
 
 
-\# 👨‍💻 Author
+# 👨‍💻 Author
 
 
 
-\### Shashank Kumar
+### Shashank Kumar
 
 
 
@@ -1082,27 +1081,27 @@ Passionate about Artificial Intelligence, Machine Learning and Community-Oriente
 
 GitHub:
 
-https://github.com/yourusername
+https://github.com/Shashank14105
 
 
 
 LinkedIn:
 
-https://linkedin.com/in/yourprofile
+https://linkedin.com/in/urs-trulyshashank
 
 
 
 Email:
 
-\[your-email@example.com](mailto:your-email@example.com)
+[shashankkumar14105@gmail.com](mailto:your-email@example.com)
 
 
 
-\---
+---
 
 
 
-\## ⭐ If you found this project useful, consider giving it a star!
+## ⭐ If you found this project useful, consider giving it a star!
 
 
 
