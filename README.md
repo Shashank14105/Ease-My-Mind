@@ -627,7 +627,7 @@ This enables users to better understand their mental well-being over time.
 
 
 
-##🎓 Community Welfare Impact
+## 🎓 Community Welfare Impact
 
 
 
@@ -677,81 +677,34 @@ The ultimate goal is to create a healthier academic community through accessible
 
 ---
 
-
-
 # 🛠 Tech Stack
 
-
-
 ### Backend
-
-
-
 * Python
 
-
-
 ### Interface
-
-
-
 * Streamlit
 
-
-
 ### Machine Learning
-
-
-
 * Scikit-Learn
-
 * Random Forest
 
-
-
 ### NLP
-
-
-
 * Hugging Face Transformers
-
 * RoBERTa
 
-
-
 ### Generative AI
-
-
-
 * Google Gemini API
-
-
-
+  
 ### Visualization
-
-
-
 * Plotly
-
 * Matplotlib
-
-
-
+  
 ### Database
-
-
-
 * SQLite
 
-
-
 ### Report Generation
-
-
-
 * ReportLab
-
-
 
 ---
 
@@ -759,18 +712,9 @@ The ultimate goal is to create a healthier academic community through accessible
 
 # ⚡ Product-Level Optimizations
 
-
-
 ### Session State Preservation
 
-
-
 Prevents prediction results from disappearing when switching pages.
-
-
-
----
-
 
 
 ### PDF Download Integration
@@ -780,53 +724,21 @@ Prevents prediction results from disappearing when switching pages.
 Users can instantly download wellness reports.
 
 
-
----
-
-
-
 ### Database Logging
-
-
 
 Stores historical records for future analysis.
 
-
-
----
-
-
-
 ### Risk Detection System
-
-
 
 Tracks repeated severe stress patterns.
 
-
-
----
-
-
-
 ### Faster User Experience
-
-
 
 Reduced unnecessary reruns and improved navigation responsiveness.
 
-
-
----
-
-
-
 ### Modular Architecture
 
-
-
 Separated project into independent components for maintainability.
-
 
 
 ---
@@ -835,123 +747,41 @@ Separated project into independent components for maintainability.
 
 # 🐞 Bugs Faced and Fixed
 
-
-
 ### Duplicate Database Entries
 
-
-
-Problem:
-
-
-
+Problem 1:
 Records were saved multiple times due to Streamlit reruns.
-
-
-
 Solution:
-
-
-
 Moved logging inside prediction event.
-
-
-
----
-
 
 
 ### Download Button Disappearing
 
-
-
-Problem:
-
-
-
+Problem2:
 Report download button vanished after reruns.
-
-
-
 Solution:
-
-
-
 Implemented Session State management.
-
-
-
----
-
-
 
 ### UnboundLocalError in Alerts
 
-
-
-Problem:
-
-
-
+Problem3:
 Counter variable was not initialized.
-
-
-
 Solution:
-
-
-
 Proper initialization before incrementing.
-
-
-
----
-
-
 
 ### Cluttered PDF Layout
 
-
-
-Problem:
-
-
-
+Problem4:
 Sections overlapped and charts disappeared.
-
-
-
 Solution:
-
-
-
 Improved spacing, separators and page flow.
-
-
-
----
-
-
 
 ### Streamlit Reruns
 
-
-
-Problem:
-
-
-
+Problem5:
 Repeated executions slowed down the application.
-
-
-
 Solution:
-
-
-
 Optimized state handling and reduced unnecessary processing.
-
-
 
 ---
 
@@ -959,19 +789,11 @@ Optimized state handling and reduced unnecessary processing.
 
 # 🌟 Why Ease My Mind?
 
-
-
 Designed as a community welfare initiative for students and education practitioners, Ease My Mind provides an intelligent, student-friendly ecosystem for emotional well-being.
-
-
 
 ## 📊 Student-Friendly Dashboard
 
-
-
 The dashboard provides:
-
-
 
 📈 Interactive Charts
 
@@ -985,55 +807,30 @@ The dashboard provides:
 
 📉 Stress Trends Visualization
 
-
-
 Making mental wellness easy to understand and monitor.
 
 
 
 ## 🤖 Google-Verified Wellness Advice
-
-
-
 Personalized recommendations are generated using the Google Gemini API, providing reliable and legitimate wellness guidance.
-
-
-
 Recommendations include:
-
-
 
 ✅ Study Schedule Suggestions
 
-
-
 ✅ Sleep Improvement Tips
-
-
 
 ✅ Screen-Time Management
 
-
-
 ✅ Daily Affirmations
 
-
-
 ✅ Relaxation Activities
-
-
 
 ✅ Productivity Guidance
 
 
-
 ## 🪷 Medhā AI Companion
 
-
-
 Medhā AI is an intelligent multilingual wellness companion.
-
-
 
 Supports:
 
@@ -1048,7 +845,6 @@ Supports:
 🧘 Stress Management
 
 🧠 General Guidance
-
 
 
 Providing a friendly and accessible experience for users from diverse backgroun
@@ -1075,7 +871,7 @@ Passionate about Artificial Intelligence, Machine Learning and Community-Oriente
 
 
 
-\### Connect with Me
+### Connect with Me
 
 
 
