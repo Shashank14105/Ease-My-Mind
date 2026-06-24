@@ -64,16 +64,16 @@ The project aims to promote proactive mental wellness support inside academic co
 
 # ⭐ Highlights
 
-### ✔ Google Gemini Verified Wellness Advice
+### Google Gemini Verified Wellness Advice
 Personalized recommendations generated using Google's Gemini API for reliable and legitimate wellness guidance.
 
-### ✔ Prolonged Stress Detection
+### Prolonged Stress Detection
 Automatically detects repeated severe stress patterns and issues warning alerts.
 
-### ✔ Medhā AI Companion
+### Medhā AI Companion
 Supports multilingual conversations and provides emotional guidance and personality development support.
 
-### ✔ Database Support
+### Database Support
 Stores historical wellness records for future analysis and progress tracking.
 
 ---
