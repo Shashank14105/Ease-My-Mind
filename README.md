@@ -20,7 +20,7 @@ Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Das
 <img src="https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white"/>
 <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white"/>
-<img src="https://img.shields.io/badge/ReportLab-0A0A0A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ReportLab-0A0A0A?style=for-the-badge\&logoColor=white"/>
 </p>
 
 
