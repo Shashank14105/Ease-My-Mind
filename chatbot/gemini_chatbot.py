@@ -5,8 +5,12 @@ import os
 
 from memory.memory import get_recent_history
 
-load_dotenv()
-genai.configure(api_key = os.getenv("GOOGLE_API_KEY"))
+api_key = st.secrets.get(
+    "GOOGLE_API_KEY",
+    os.getenv("GOOGLE_API_KEY")
+)
+
+genai.configure(api_key=api_key)
 
 @st.cache_resource
 def load_model():
