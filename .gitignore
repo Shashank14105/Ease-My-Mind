@@ -1,0 +1,14 @@
+myvenv/
+__pycache__/
+*.pyc
+
+reports_output/*.pdf
+reports_output/*.png
+
+*.db-journal
+
+.vscode/
+
+.env
+
+.v2/
