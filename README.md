@@ -15,7 +15,7 @@ Stress Prediction • Sentiment Analysis • AI Wellness Coach • Analytics Das
 ## Project Demonstration
 
 <p align="center">
-assets/demo.gif
+assets/demo
 </p>
 
 <p align="center">
