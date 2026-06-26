@@ -34,11 +34,11 @@ The project aims to promote proactive mental wellness support inside academic co
 ---
 
 # Easy Navigation
-* 😊 Positive
+* Positive
 
-* 😐 Neutral
+* Neutral
 
-* 😞 Negative
+* Negative
 
 ### Student-Friendly Dashboard
 
@@ -78,7 +78,7 @@ Random Forest
 
 Low / Moderate / Severe
 
-
+↓
 
 Journal
 
@@ -88,8 +88,9 @@ RoBERTa
 
 ↓
 
- Positive |  Neutral |  Negative
+Positive |  Neutral |  Negative
 
+↓
 
 Hybrid Engine
 
@@ -97,7 +98,7 @@ Hybrid Engine
 
 Final Stress Assessment
 
-
+↓
 
 Google Gemini
 
@@ -156,7 +157,7 @@ Absence of personalized wellness recommendations.
 Limited awareness regarding mental health inside academic communities.
 
 
-# ✨ Features
+# Features
 
 ##  Stress Prediction using Random Forest
 
