@@ -88,12 +88,7 @@ RoBERTa
 
 ↓
 
-😊 Positive
-
-😐 Neutral
-
-😞 Negative
-
+ Positive |  Neutral |  Negative
 
 
 Hybrid Engine
@@ -227,7 +222,7 @@ Continuously monitors previous records and warns users when repeated severe stre
 This helps users seek support before stress escalates.
 
 ---
-## 📄 Downloadable Wellness Reports
+## Downloadable Wellness Reports
 
 Generate beautifully formatted PDF reports containing:
 * Current Wellness Summary
@@ -243,7 +238,7 @@ Generate beautifully formatted PDF reports containing:
 * Sentiment Charts
 
 ---
-## 🪷 Medhā AI Companion
+## Medhā AI Companion
 A multilingual wellness companion for:
 * Emotional support
 
@@ -259,42 +254,42 @@ Supports conversations in multiple languages.
 # Folder Structure
 
 ```text
-├── 📁 alerts
+├──alerts
 │   └──alerts.py
-├── 📁 assets
-│   └── 🖼️ logo.png
-├── 📁 chatbot
+├──assets
+│   └──logo.png
+├──chatbot
 │   └──gemini_chatbot.py
-├── 📁 dashboard
+├──dashboard
 │   ├──__init__.py
 │   └──dashboard.py
-├── 📁 database
+├──database
 │   ├──database.py
-│   ├── 📄 mood_history.db
+│   ├──mood_history.db
 │   └──save_log.py
-├── 📁 dataset
-│   └── 📄 depression_student_dataset.csv
-├── 📁 generated_reports
-├── 📁 memory
+├──dataset
+│   └──depression_student_dataset.csv
+├──generated_reports
+├──memory
 │   └──memory.py
-├── 📁 models
-│   ├── 📄 label_encoders.pkl
-│   └── 📄 stress_model.pkl
-├── 📁 prediction
+├──models
+│   ├──label_encoders.pkl
+│   └──stress_model.pkl
+├──prediction
 │   ├──stress_predictor.py
 │   ├──tempCodeRunnerFile.py
 │   ├──test.py
 │   └──train_model.py
-├── 📁 reports
+├──reports
 │   └──generate_report.py
-├── 📁 reports_output
-│   ├── 🖼️ sentiment_chart.png
-│   ├── 🖼️ stress_chart.png
-│   └── 📕 wellness_report.pdf
-├── 📁 sentiment
+├──reports_output
+│   ├──sentiment_chart.png
+│   ├──stress_chart.png
+│   └──wellness_report.pdf
+├──sentiment
 │   └──sentiment_analysis.py
 ├──app.py
-├── 📄 requirements.txt
+├──requirements.txt
 └──sentiment_test.py
 ```
 
@@ -343,7 +338,7 @@ This enables users to better understand their mental well-being over time.
 
 &#x20;                     ↓
 
-&#x20;        😊 Positive | 😐 Neutral | 😞 Negative
+&#x20;         Positive |  Neutral |  Negative
 
 &#x20;                     ↓
 
@@ -381,7 +376,7 @@ This enables users to better understand their mental well-being over time.
 
 
 
-## 🎓 Community Welfare Impact
+## Community Welfare Impact
 
 Ease My Mind was developed to promote mental wellness among:
 
@@ -544,24 +539,24 @@ Making mental wellness easy to understand and monitor.
 
 
 
-## 🤖 Google-Verified Wellness Advice
+## Google-Verified Wellness Advice
 Personalized recommendations are generated using the Google Gemini API, providing reliable and legitimate wellness guidance.
 Recommendations include:
 
-✅ Study Schedule Suggestions
+Study Schedule Suggestions
 
-✅ Sleep Improvement Tips
+Sleep Improvement Tips
 
-✅ Screen-Time Management
+Screen-Time Management
 
-✅ Daily Affirmations
+Daily Affirmations
 
-✅ Relaxation Activities
+Relaxation Activities
 
-✅ Productivity Guidance
+Productivity Guidance
 
 
-## 🪷 Medhā AI Companion
+## Medhā AI Companion
 
 Medhā AI is an intelligent multilingual wellness companion.
 
