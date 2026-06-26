@@ -591,17 +591,11 @@ Passionate about Artificial Intelligence, Machine Learning and Community-Oriente
 
 ### Connect with Me
 
-GitHub:
+GitHub: https://github.com/Shashank14105
 
-https://github.com/Shashank14105
+LinkedIn: https://linkedin.com/in/urs-trulyshashank
 
-LinkedIn:
-
-https://linkedin.com/in/urs-trulyshashank
-
-Email:
-
-[shashankkumar14105@gmail.com](mailto:your-email@example.com)
+Email: [Connect Via Email] (mailto:shashankkumar7701@gmail.com)
 
 ---
 ## ⭐ If you found this project useful, consider giving it a star!
