@@ -595,7 +595,7 @@ GitHub: https://github.com/Shashank14105
 
 LinkedIn: https://linkedin.com/in/urs-trulyshashank
 
-Email: [Connect Via Email] (mailto:shashankkumar7701@gmail.com)
+Email: [Connect Via Email](mailto:shashankkumar7701@gmail.com)
 
 ---
 ## ⭐ If you found this project useful, consider giving it a star!
