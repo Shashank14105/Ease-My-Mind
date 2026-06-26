@@ -562,7 +562,7 @@ Productivity Guidance
 Medhā AI is an intelligent multilingual wellness companion.
 
 <p align="center">
-<img src=Project Screenshots/botreply.french.png/ width="40%">
+<img src=display/image7.png/ width="40%">
 </p>
 
 Supports:
